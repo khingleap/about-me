@@ -1,0 +1,106 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  margin-top: 0px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 10px;
+  color: #66BFBF;
+  margin: 100px auto 100px auto;
+  width: 6%;
+}
+.top-container{
+  background-color: #EAF6F6;
+  text-align: center;
+  position: relative;
+  padding: 100px 0px;
+}
+.profile{
+  width: 40%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+ .sport{
+   width: 25%;
+   float: right;
+   margin-left: 30px;
+ }
+ .contact-me{
+   width: 40%;
+   line-height: 2;
+   margin: auto auto 100px auto;
+ }
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 2;
+  padding: 30px 0px;
+  margin-bottom: 0px;
+}
+.angkor{
+  width: 50%;
+  position: relative;
+  top: 90px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.git{
+  margin: auto auto 0px auto;
+}
+.btn{
+  position: relative;
+  top: 30px;
+  padding: 10px 50px;
+  background-color:  #66BFBF;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.footer-link{
+  text-decoration: none;
+  margin: 30px 20px 0px 20px;
+  color: #11999E;
+}
+.label{
+  font-size: 0.7rem;
+}
